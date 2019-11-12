@@ -1,6 +1,6 @@
 <script>
   import { setContext, onMount, afterUpdate } from "svelte";
-  // test
+  
   // state
   // all context variables & functions more than one level down included in state object
   const state = {
