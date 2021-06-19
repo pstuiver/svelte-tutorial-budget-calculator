@@ -97,7 +97,6 @@
     setLocalStorage();
   });
 </script>
-
 <Navbar {showForm} />
 <main class="content">
   {#if isFormOpen}
